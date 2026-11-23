@@ -1,0 +1,5 @@
+{
+  "name": "work-toolkit",
+  "owner": {"name": "POH-keito"},
+  "plugins": [{"name": "draft", "source": "./draft", "description": "Claude Codeとの作業をMarkdownに残す"}]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "draft",
+  "version": "0.3.0",
+  "description": "_draft/<task>/ ベースで PLAN/SPEC/TODO/KNOWLEDGE を回す思考永続化スキル群。/draft:init で _draft 作成、/draft:sync でセッション内容を反映、/draft:plan-fb で PLAN.md ベース壁打ち、/draft:answer-gui で確認質問をブラウザで一括回答 (依存ゼロ)。GitHub Issue 化は /buildin:to-issue、Buildin への publish は /buildin:publish-draft を使う (draft = 思考永続化、buildin = 外部出力)。",
+  "author": {
+    "name": "POH-keito"
+  }
+}
